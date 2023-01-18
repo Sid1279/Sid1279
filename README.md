@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me ʕ•́ᴥ•̀ʔっ :
 Hey! I'm Siddharth 👨‍💻 I'm a current 1B Computer Engineering student at UWaterloo :)
 
 
