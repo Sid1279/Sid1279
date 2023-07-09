@@ -15,5 +15,5 @@ Hey! I'm Siddharth 👨‍💻 I'm a current 1B Computer Engineering student at 
 # 📊 GitHub Stats:
 ![Sid1279's Stats](https://github-readme-stats.vercel.app/api?username=Sid1279&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sid1279&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1279&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&card_width=480)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1279&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&card_width=460)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
