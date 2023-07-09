@@ -13,7 +13,7 @@ Hey! I'm Siddharth 👨‍💻 I'm a current 1B Computer Engineering student at 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sid1279&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![Sid1279's Stats](https://github-readme-stats.vercel.app/api?username=Sid1279&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sid1279&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1279&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
