@@ -1,5 +1,5 @@
 # About Me 🌟 :
-Hey! I'm Siddharth 👨‍💻 I'm a current 2A Computer Engineering student at UWaterloo :)
+Hey! I'm Siddharth 👨‍💻 I'm a current 2A Computer Engineering student at UWaterloo :) <br>
 Check out my personal website: https://sid1279.github.io/personal-website-3js/
 
 # Languages 💻:
