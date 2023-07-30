@@ -25,3 +25,4 @@ Check out my personal website [here](https://sid1279.github.io/personal-website-
 ![Sid1279's Stats](https://github-readme-stats.vercel.app/api?username=Sid1279&theme=transparent&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1279&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=300)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sid1279&theme=transparent&hide_border=true&card_width=760)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid1279&theme=github_dark) -->
+<!-- https://animated-fluent-emoji.vercel.app/ -->
