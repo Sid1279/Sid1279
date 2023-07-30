@@ -1,4 +1,4 @@
-# About Me 🍫:
+# About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Chocolate%20Bar.png" alt="Chocolate Bar" width="25" height="25" />:
 Hey! I'm Siddharth 👨‍💻 I'm a current 2A Computer Engineering student at UWaterloo :) <br>
 Check out my personal website [here](https://sid1279.github.io/personal-website-3js/)
 
