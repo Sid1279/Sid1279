@@ -1,5 +1,5 @@
 # About Me 🍫:
-Hey! I'm Siddharth 👨‍💻 I'm a current 2A Computer Engineering student at UWaterloo :) <br>
+Hey ! I'm Siddharth 👨‍💻 I'm a current 2A Computer Engineering student at UWaterloo :) <br>
 Check out my personal website [here](https://sid1279.github.io/personal-website-3js/)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium-Dark%20Skin%20Tone.png" alt="Student Medium-Dark Skin Tone" width="200" height="200" />
