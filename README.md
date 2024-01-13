@@ -1,6 +1,6 @@
 # About Me 🍫:
 Hey! I'm Siddharth 👨‍💻 I'm a current 2A Software Engineering student at UWaterloo :) <br>
-Check out my personal website [here](https://sid1279.github.io)
+Check out my website [here](https://sid1279.github.io)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium-Dark%20Skin%20Tone.png" alt="Student Medium-Dark Skin Tone" width="200" height="200" />
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Technologist Medium-Dark Skin Tone" width="200" height="200" /> hi-->
