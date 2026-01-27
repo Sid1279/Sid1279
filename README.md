@@ -1,10 +1,9 @@
 ### Intro
-- Hi, I'm Siddharth 🧑‍💻
+- 🧑‍💻 Hi, I'm Siddharth
+- 🏫 SE student [@uwaterloo](https://uwaterloo.ca/) interested in ML, NLP, and distributed systems
 
 ### Current
 - 🛢️ SWE intern [@yugabyte](https://www.yugabyte.com/) working on distributed storage and transaction systems
-- 🏫 SE student [@uwaterloo](https://uwaterloo.ca/)
-- 📍 Interested in ML, NLP, and distributed systems
 
 ### Recent
 - 🍎 ML intern [@apple](https://www.apple.com/) working on RAG, semantic search, and large-scale retrieval workflows
