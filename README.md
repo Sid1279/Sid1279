@@ -3,7 +3,7 @@
 - 🏫 SE student [@uwaterloo](https://uwaterloo.ca/) interested in ML, NLP, and distributed systems
 
 ### Current
-- 🛢️ SWE intern [@yugabyte](https://www.yugabyte.com/) working on distributed storage and transaction systems
+- 🗄️ SWE intern [@yugabyte](https://www.yugabyte.com/) working on distributed storage and transaction systems
 
 ### Recent
 - 🍎 ML intern [@apple](https://www.apple.com/) building RAG, semantic search, and retrieval workflows
