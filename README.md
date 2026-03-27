@@ -11,4 +11,3 @@
 - 🧠 Researcher [@vip lab](https://vip.uwaterloo.ca/) applying ML to genomics + nutrition estimation
 - 🚚 Worked on platform reliability and kubernetes infrastructure [@jb hunt](https://www.jbhunt.com/)
 - 🐔 Built MLOps pipelines to deploy computer vision models [@tyson foods](https://www.tysonfoods.com/)
-- 🔗 Website: [sid1279.github.io](https://sid1279.github.io/)
