@@ -1,8 +1,9 @@
 ### Intro
 - 🧑‍💻 Hi, I'm Siddharth
-- 🏫 SE student [@uwaterloo](https://uwaterloo.ca/) interested in ML, NLP, and distributed systems
+- 🏫 SE student [@uwaterloo](https://uwaterloo.ca/) interested in building lego & eating ice cream
 
 ### Recent
+- 🍓 MTS intern [@openai](https://openai.com/) designing post-training evals for long-horizing coding & physical engineering
 - 🐶 SWE intern [@datadog](https://www.datadoghq.com/) scaling gpu infra with topology-aware scheduling
 - 🗄️ SWE intern [@yugabyte](https://www.yugabyte.com/) working on distributed storage and transaction systems
 - 🍎 ML intern [@apple](https://www.apple.com/) building semantic search + retrieval workflows
